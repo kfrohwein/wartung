@@ -1,0 +1,12 @@
+{
+  "require": {
+    "twig/twig": "~2.0",
+    "catfan/Medoo": "^1.4",
+    "zetacomponents/mail": "^1.8"
+  },
+  "autoload": {
+    "psr-0": {
+      "MailManagement\\": "src/"
+    }
+  }
+}
